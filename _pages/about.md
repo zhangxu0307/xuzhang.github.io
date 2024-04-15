@@ -1,22 +1,54 @@
 ---
 permalink: /
-title: "Xu Zhang's Personal Website"
+title: "Xu Zhang"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Self Introduction
-======
+A developer and researcher specializing in machine learning, deep learning, NLP, and data analytics. 
+Recently, my focus has been on:
+
+- LLM-based Agent 
+- LLM Fine Tuning 
+- Intelligent Log Data Analysis
+- Active Anomaly Detection
 
 
-Education and Work Experience
+Open Source Project
 ======
+
+- [TaskWeaver](https://github.com/microsoft/TaskWeaver)  (**4.6K stars**): TaskWeaver is A code-first agent framework for seamlessly planning and executing data analytics tasks. This innovative framework interprets user requests through code snippets and efficiently coordinates a variety of plugins in the form of functions to execute data analytics tasks in a stateful manner.
+- [UFO](https://github.com/microsoft/UFO)  (**3.8K stars**): UFO is a UI-Focused dual-agent framework to fulfill user requests on Windows OS by seamlessly navigating and operating within individual or spanning multiple applications.
 
 
 Selected Publication
 ======
+- SPINE: a scalable log parser with feedback guidance (**FSE'22 Distinguish Paper Award**) [[pdf](https://dl.acm.org/doi/abs/10.1145/3338906.3338931)]
+- Robust log-based anomaly detection on unstable log data（**FSE'19, 400+ citations**）[[pdf](https://dl.acm.org/doi/abs/10.1145/3338906.3338931)]
+- TaskWeaver: A Code-First Agent Framework (Axriv) [[pdf](https://arxiv.org/abs/2311.17541)]
+- UniLog: Automatic Logging via LLM and In-Context Learning (ICSE'24) [[pdf](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)]
+- HALO: Hierarchy-aware Fault Localization for Cloud Systems (KDD'22) [[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467190)]
+- CONAN: Diagnosing Batch Failures for Cloud Systems （FSE'22） [[pdf](https://dl.acm.org/doi/abs/10.1145/3338906.3338931)]
+- Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection (ICLR'22) [[pdf](https://openreview.net/forum?id=-vKlt84fHs)]
+- Cross-dataset time series anomaly detection for cloud systems (ATC'19) [[pdf](https://www.usenix.org/conference/atc19/presentation/zhang-xu)]
+- UniParser: A Unified Log Parser for Heterogeneous Log Data (WWW'22) [[pdf](https://dl.acm.org/doi/abs/10.1145/3485447.3511993)]
+- Neural Feature Search: A Neural Architecture for Automated Feature Engineering (ICDM'19)[[pdf](https://ieeexplore.ieee.org/abstract/document/8970679/)]
+- Onion: identifying incident-indicating logs for cloud systems (FSE'22) [[pdf](https://dl.acm.org/doi/abs/10.1145/3468264.3473919)]
+- Fighting the Fog of War: Automated Incident Detection for Cloud Systems (ATC'21) [[pdf](https://www.usenix.org/conference/atc21/presentation/li-liqun)]
+- LogOnline: A Semi-Supervised Log-Based Anomaly Detector Aided with Online Learning Mechanism (ASE'23) [[pdf](https://ieeexplore.ieee.org/abstract/document/10298477)]
+- STEAM: Observability-Preserving Trace Sampling (FSE'23) [[pdf](https://dl.acm.org/doi/abs/10.1145/3611643.3613881)]
+
+Education and Work Experience
+======
+
+- Senior Researcher, MSRA Microsoft (2019-2024)
+- Master Degree, Department of Computer Science, Nanjing University (2016-2019)
+- Bachelor Degree, Department of Automation, Harbin University (2012-2016)
+
+
+
 
 
 
