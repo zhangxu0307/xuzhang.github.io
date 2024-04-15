@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xu Zhang"
 title_separator          : "-"
 name                     : &name "Xu Zhang"
-description              : &description "Machine Learning and Deep Leanring, LLM, Data Analysis"
+description              : &description "Machine Learning, Deep Leanring, LLM, Data Analysis"
 url                      : https://zhangxu0307.github.io/xuzhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zhangxu0307/xuzhang.github.io"
@@ -21,33 +21,33 @@ repository               : "https://github.com/zhangxu0307/xuzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Xu Zhang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Beijing"
+  bio              : "Machine Learning, Deep Leanring, LLM, Data Analysis"
+  location         : "Beijing, China"
   employer         : "Microsoft"
   uri              : # URL
   email            : "zhangxu0307@163.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=bqXdMMMAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : #
+  pubmed           : # 
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/zhangxu0307"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
