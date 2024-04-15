@@ -25,7 +25,7 @@ Open Source Project
 
 Selected Publication
 ======
-- SPINE: a scalable log parser with feedback guidance (**FSE'22 Distinguish Paper Award**) [[pdf](https://dl.acm.org/doi/abs/10.1145/3338906.3338931)]
+- SPINE: a scalable log parser with feedback guidance (**FSE'22 Distinguish Paper Award**) [[pdf](https://dl.acm.org/doi/abs/10.1145/3540250.3549176)]
 - Robust log-based anomaly detection on unstable log data（**FSE'19, 400+ citations**）[[pdf](https://dl.acm.org/doi/abs/10.1145/3338906.3338931)]
 - TaskWeaver: A Code-First Agent Framework (Axriv) [[pdf](https://arxiv.org/abs/2311.17541)]
 - UniLog: Automatic Logging via LLM and In-Context Learning (ICSE'24) [[pdf](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)]
@@ -38,7 +38,7 @@ Selected Publication
 - Onion: identifying incident-indicating logs for cloud systems (FSE'22) [[pdf](https://dl.acm.org/doi/abs/10.1145/3468264.3473919)]
 - Fighting the Fog of War: Automated Incident Detection for Cloud Systems (ATC'21) [[pdf](https://www.usenix.org/conference/atc21/presentation/li-liqun)]
 - LogOnline: A Semi-Supervised Log-Based Anomaly Detector Aided with Online Learning Mechanism (ASE'23) [[pdf](https://ieeexplore.ieee.org/abstract/document/10298477)]
-- STEAM: Observability-Preserving Trace Sampling (FSE'23) [[pdf](https://dl.acm.org/doi/abs/10.1145/3611643.3613881)]
+- STEAM: Observability-Preserving Trace Sampling (FSE'23) [[pdf](https://ieeexplore.ieee.org/document/10172587)]
 
 Education and Work Experience
 ======
