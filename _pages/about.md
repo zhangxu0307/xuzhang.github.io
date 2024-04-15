@@ -30,7 +30,7 @@ Selected Publication
 - TaskWeaver: A Code-First Agent Framework (Axriv) [[pdf](https://arxiv.org/abs/2311.17541)]
 - UniLog: Automatic Logging via LLM and In-Context Learning (ICSE'24) [[pdf](https://dl.acm.org/doi/abs/10.1145/3597503.3623326)]
 - HALO: Hierarchy-aware Fault Localization for Cloud Systems (KDD'22) [[pdf](https://dl.acm.org/doi/abs/10.1145/3447548.3467190)]
-- CONAN: Diagnosing Batch Failures for Cloud Systems （FSE'22） [[pdf](https://dl.acm.org/doi/abs/10.1145/3338906.3338931)]
+- CONAN: Diagnosing Batch Failures for Cloud Systems （FSE'22） [[pdf](https://ieeexplore.ieee.org/document/10172587)]
 - Towards Lightweight, Model-Agnostic and Diversity-Aware Active Anomaly Detection (ICLR'22) [[pdf](https://openreview.net/forum?id=-vKlt84fHs)]
 - Cross-dataset time series anomaly detection for cloud systems (ATC'19) [[pdf](https://www.usenix.org/conference/atc19/presentation/zhang-xu)]
 - UniParser: A Unified Log Parser for Heterogeneous Log Data (WWW'22) [[pdf](https://dl.acm.org/doi/abs/10.1145/3485447.3511993)]
@@ -43,7 +43,7 @@ Selected Publication
 Education and Work Experience
 ======
 
-- Senior Researcher, MSRA Microsoft (2019-2024)
+- Senior Researcher, MSRA, Microsoft (2019-2024)
 - Master Degree, Department of Computer Science, Nanjing University (2016-2019)
 - Bachelor Degree, Department of Automation, Harbin Engineering University (2012-2016)
 
