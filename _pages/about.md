@@ -45,7 +45,7 @@ Education and Work Experience
 
 - Senior Researcher, MSRA Microsoft (2019-2024)
 - Master Degree, Department of Computer Science, Nanjing University (2016-2019)
-- Bachelor Degree, Department of Automation, Harbin University (2012-2016)
+- Bachelor Degree, Department of Automation, Harbin Engineering University (2012-2016)
 
 
 
