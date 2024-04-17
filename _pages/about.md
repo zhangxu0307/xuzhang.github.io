@@ -9,21 +9,22 @@ redirect_from:
 
 Biography
 ======
-I'm a developer and researcher specializing in machine learning, deep learning, NLP, and data analytics. 
-I worked in Microsoft Research Asia (MSRA) DKI team since 2019.
-I majored in AIOps and LLM for Cloud.
-During this period, I published **30+** top-tier conference papers and got 930 citations.
-Besides, I aslo got Distinguish Paper Award in FSE'22.
-I received M. Sc. Student of Department of Computer Science and Technology in Nanjing University (NJU).
-During this period, I got Excellent master's thesis award.
-Before my M. Sc. career, I received my B.Sc. degree in College of Automation in June 2016 from Harbin Engineering University (HEU).
-In the same year, I was admitted to study for a M. Sc. degree in Nanjing University without entrance examination.
+I am a dedicated developer and researcher with expertise in machine learning, deep learning, and data analytics. 
+Since 2019, I have been a member of the Microsoft Research Asia (MSRA) DKI team. 
+My focus has been on AIOps and LLM for Cloud. 
+During this time, I have published **30+** top-tier conference papers (ICLR/KDD/ICSE/ATC/FSE/ICDM/WWW/ASE) and have received **930+** citations. I am proud to have received the **Distinguished Paper Award** in FSE'22.
+
+I earned my M.Sc. degree from the Department of Computer Science and Technology at Nanjing University (NJU). 
+During my studies, I received the **Excellent Master's Thesis Award**. 
+
+Prior to my M.Sc. degree, I earned a B.Sc. degree from the College of Automation at Harbin Engineering University (HEU) in June 2016. 
+The same year, I was accepted to study for an M.Sc. degree at Nanjing University without having to take the entrance examination.
 
 
 Research Interests
 ======
 
-My research interests include: machine learning, deep learning, LLM, and data analytics. 
+My research interests include: machine learning, deep learning and data analytics. 
 Currently, I'm focused on:
 
 - LLM-based Agent 
@@ -37,6 +38,7 @@ Open Source Project
 
 - [TaskWeaver](https://github.com/microsoft/TaskWeaver)  (**4.6K stars**): TaskWeaver is A code-first agent framework for seamlessly planning and executing data analytics tasks. This innovative framework interprets user requests through code snippets and efficiently coordinates a variety of plugins in the form of functions to execute data analytics tasks in a stateful manner.
 - [UFO](https://github.com/microsoft/UFO)  (**3.8K stars**): UFO is a UI-Focused dual-agent framework to fulfill user requests on Windows OS by seamlessly navigating and operating within individual or spanning multiple applications.
+- [time-series-forcasting](https://github.com/zhangxu0307/time_series_forecasting_pytorch): Time series forecasting using pytorch, including MLP,RNN,LSTM,GRU, ARIMA, SVR, RF and TSR-RNN models.
 
 
 Selected Publication
@@ -55,11 +57,17 @@ Selected Publication
 - Fighting the Fog of War: Automated Incident Detection for Cloud Systems (ATC'21) [[pdf](https://www.usenix.org/conference/atc21/presentation/li-liqun)]
 - LogOnline: A Semi-Supervised Log-Based Anomaly Detector Aided with Online Learning Mechanism (ASE'23) [[pdf](https://ieeexplore.ieee.org/abstract/document/10298477)]
 - STEAM: Observability-Preserving Trace Sampling (FSE'23) [[pdf](https://ieeexplore.ieee.org/document/10172587)]
+- Label mapping neural networks with response consolidation for class incremental learning (Axriv) [[pdf](https://arxiv.org/abs/1905.07835)]
+
+
+Blog
+======
+
 
 Education and Work Experience
 ======
 
-- Senior Researcher, MSRA, Microsoft (2019-2024)
+- Senior Researcher, MSRA&STCA, Microsoft (2019-2024)
 - Master Degree, Department of Computer Science, Nanjing University (2016-2019)
 - Bachelor Degree, Department of Automation, Harbin Engineering University (2012-2016)
 
