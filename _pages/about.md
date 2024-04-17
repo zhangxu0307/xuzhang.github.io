@@ -7,8 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-A developer and researcher specializing in machine learning, deep learning, NLP, and data analytics. 
-Recently, my focus has been on:
+Biography
+======
+I'm a developer and researcher specializing in machine learning, deep learning, NLP, and data analytics. 
+I worked in Microsoft Research Asia (MSRA) DKI team since 2019.
+I majored in AIOps and LLM for Cloud.
+During this period, I published **30+** top-tier conference papers and got 930 citations.
+Besides, I aslo got Distinguish Paper Award in FSE'22.
+I received M. Sc. Student of Department of Computer Science and Technology in Nanjing University (NJU).
+During this period, I got Excellent master's thesis award.
+Before my M. Sc. career, I received my B.Sc. degree in College of Automation in June 2016 from Harbin Engineering University (HEU).
+In the same year, I was admitted to study for a M. Sc. degree in Nanjing University without entrance examination.
+
+
+Research Interests
+======
+
+My research interests include: machine learning, deep learning, LLM, and data analytics. 
+Currently, I'm focused on:
 
 - LLM-based Agent 
 - LLM Fine Tuning 
