@@ -21,7 +21,7 @@ repository               : "https://github.com/zhangxu0307/xuzhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile_head.png"
   name             : "Xu Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning, Deep Leanring, LLM, Data Analysis"
